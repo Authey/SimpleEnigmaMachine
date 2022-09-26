@@ -31,6 +31,7 @@ class Enigma:
         self.reflector = random.sample(self.all_reflector_list, 1)
 
     def random_plugbooard(self):
+        # TODO
         pass
 
     def encrypt_and_decrypt(self, text):
